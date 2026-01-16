@@ -1,2 +1,7 @@
 # Tic-Tac-Toe-Game
-Interactive Tic Tac Toe game built using HTML, CSS, and JavaScript with AI opponent, sound effects, dark/light theme, scoreboard, and animated winning line for enhanced user experience.
+🎮 Tic Tac Toe – Interactive Web Game
+
+This is a modern and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript.
+The project focuses on clean UI, smooth animations, and user-friendly gameplay, making it different from basic tutorial-based implementations.
+
+The game supports Player vs AI mode, includes sound effects, a scoreboard, a dark/light theme toggle, and a winning line animation that visually highlights the winning combination.
